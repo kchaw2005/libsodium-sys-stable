@@ -20,7 +20,7 @@ pkg-config = "0.3.32"
 tar = "0.4.45"
 ureq = { version = "3.3.0", default-features = false }
 vcpkg = "0.2.15"
-zip = { version = "8.5", default-features = false, features = ["deflate"] }
+zip = { version = "9.0.4", default-features = false, features = ["deflate"] }
 
 [dependencies]
 libc = { version = "0.2", default-features = false }
